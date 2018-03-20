@@ -1,5 +1,5 @@
 
-#carousel{
+/*#carousel{
     width: 100%;
     height: 90%;
     position: relative;
@@ -7,25 +7,49 @@
     margin-right: auto;
     display: inline-block;
     align-items: center;
+}*/
+
+.carousel-inner img {
+    width: 100%;
+    height: 300px;
 }
 
-.ajuda{
+
+
+.sobre{
     text-align: center;
-}
-
-#botao{
-    align-itens:center
+    color: grey;
 }
 
 #destitulo{
    text-align: center;
 }
 
-#cadaHome{
-    display: inline-block;
-    text-align: center;
-    margin: 0 auto;
+#destaque{
+    padding:3%;
+    
 }
+
+#centralizar{
+    margin:10%;
+    padding-left: 23%;
+}
+
+
+#textaligne{
+    text-align: center;
+}
+
+#ha{
+    display: block;
+    text-align: center;
+
+}
+
+.hidden {
+    display: none;
+    visibility: hidden;
+  } 
 
 .hr{
     color: #f00;
@@ -33,7 +57,9 @@
     
 }
 
-
+#conta{
+    text-align: center;
+}
 
  .container{
     display: block;
@@ -47,4 +73,7 @@
      display: inline-block;
  }
 
- 
+ #display{
+     display: inline-block;
+     margin:2%;
+ }
