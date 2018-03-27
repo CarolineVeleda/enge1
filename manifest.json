@@ -3,7 +3,7 @@
   "short_name": "Geek Store",
   "theme_color": "rgba(195,81,81,0.89)",
   "background_color": "#ffffff",
-  "display": "browser",
+  "display": "fullscreen",
   "orientation": "landscape",
   "Scope": "/",
   "start_url": "https://carolineveleda.github.io/enge1/index.html",
