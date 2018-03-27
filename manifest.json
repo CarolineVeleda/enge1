@@ -6,7 +6,7 @@
   "display": "browser",
   "orientation": "landscape",
   "Scope": "/",
-  "start_url": "https://carolineveleda.github.io/enge1/index.html",
+  "start_url": "enge1/index.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
