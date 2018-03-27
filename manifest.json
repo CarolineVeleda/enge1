@@ -1,6 +1,6 @@
 {
   "name": "Geek Store",
-  "short_name": "Geek Store"
+  "short_name": "Geek Store",
   "theme_color": "rgba(195,81,81,0.89)",
   "background_color": "#ffffff",
   "display": "fullscreen",
