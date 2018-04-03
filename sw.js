@@ -12,6 +12,7 @@ if (navigator.serviceWorker.controller) {
   });
 }
 
+
 //This is the "Offline page" service worker
 
 //Install stage sets up the offline page in the cahche and opens a new cache
@@ -45,6 +46,3 @@ self.addEventListener('refreshOffline', function(response) {
     return cache.put(offlinePage, response);
   });
 });
-
-
-
